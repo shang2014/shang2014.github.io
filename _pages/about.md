@@ -42,6 +42,10 @@ I am an Associate Professor at Prof [Guan Yuan](https://faculty.cumt.edu.cn/yuan
 
 # 📝 Publications 
 
+<img src='https://img.shields.io/badge/DBSec%2025-4C81ED'/> [Can Differentially Private Fine-tuning LLMs Protect Against Privacy Attacks?](https://www.arxiv.org/abs/2504.21036)
+- Hao Du, **Shang Liu**, Yang Cao
+- Conference on Data and Applications Security and Privacy (DBSec), 2025
+- 
 <img src='https://img.shields.io/badge/IJCAI%2025-4C81ED'/> CRobustHAR: Multi-scale Spatial-temporal Masked Self-supervised Pre-training for Robust Human Activity Recognition.
 - Xiao Liu, Guan Yuan, Yanmei Zhang, **Shang Liu**, Qiuyan Yan
 - International Joint Conferences on Artificial Intelligence (IJCAI), 2025, CCF-A
@@ -50,9 +54,11 @@ I am an Associate Professor at Prof [Guan Yuan](https://faculty.cumt.edu.cn/yuan
 - Guixian Zhang,  Debo Cheng, Guan Yuan, **Shang Liu**, Yanmei Zhang
 - International Joint Conferences on Artificial Intelligence (IJCAI), 2025, CCF-A
 
-<img src='https://img.shields.io/badge/DBSec%2025-4C81ED'/> Can Differentially Private Fine-tuning LLMs Protect Against Privacy Attacks?
-- Guixian Zhang,  Debo Cheng, Guan Yuan, **Shang Liu**, Yanmei Zhang
-- International Joint Conferences on Artificial Intelligence (IJCAI), 2025, CCF-A
+<img src='https://img.shields.io/badge/PAKDD%2025-4C81ED'/> [Privacy in Fine-tuning Large Language Models: Attacks, Defenses, and Future Directions.](https://www.arxiv.org/abs/2412.16504)
+- Hao Du, **Shang Liu**, Lele Zheng, Yang Cao, Atsuyoshi Nakamura, Lei Chen
+- Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2025
+
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
