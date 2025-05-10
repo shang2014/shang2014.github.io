@@ -84,7 +84,7 @@ I am an Associate Professor at Prof [Guan Yuan](https://faculty.cumt.edu.cn/yuan
 
 <img src='https://img.shields.io/badge/NPC%2019-4C81ED'/> [GraphScSh: Efficient I/O Scheduling and Graph Sharing for Concurrent Graph Processin.](https://link.springer.com/chapter/10.1007/978-3-030-30709-7_1)
 - **Shang Liu**, Zhan Shi, Dan Feng, Shuo Chen, Fang Wang, Yamei Peng
-- Annual IFIP International Conference on Network and Parallel Computing (NPC), 2019, CCF-C, <font color="#dd0000">top paper</font><br /> 
+- Annual IFIP International Conference on Network and Parallel Computing (NPC), 2019, CCF-C 
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
