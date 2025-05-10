@@ -45,7 +45,7 @@ I am an Associate Professor at Prof [Guan Yuan](https://faculty.cumt.edu.cn/yuan
 <img src='https://img.shields.io/badge/DBSec%2025-4C81ED'/> [Can Differentially Private Fine-tuning LLMs Protect Against Privacy Attacks?](https://www.arxiv.org/abs/2504.21036)
 - Hao Du, **Shang Liu**, Yang Cao
 - Conference on Data and Applications Security and Privacy (DBSec), 2025
-- 
+ 
 <img src='https://img.shields.io/badge/IJCAI%2025-4C81ED'/> CRobustHAR: Multi-scale Spatial-temporal Masked Self-supervised Pre-training for Robust Human Activity Recognition.
 - Xiao Liu, Guan Yuan, Yanmei Zhang, **Shang Liu**, Qiuyan Yan
 - International Joint Conferences on Artificial Intelligence (IJCAI), 2025, CCF-A
