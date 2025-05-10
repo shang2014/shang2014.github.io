@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Shang Liu (刘上)"
-description              : "Associate Professor"
+title                    : "Shang Liu"
+description              : "School of Computer and Science \\ China University of Mining and Technology"
 repository               : "shang2014/shang2014.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Shang Liu"
+  name             : "Shang Liu (刘上)"
   avatar           : "images/shang_photo.jpg"
-  bio              : "Lorem ipsum College"
+  bio              : "Associate Professor"
   location         : "Xuzhou, China"
   employer         :
   pubmed           : 
