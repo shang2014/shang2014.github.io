@@ -42,9 +42,16 @@ I am an Associate Professor at Prof [Guan Yuan](https://faculty.cumt.edu.cn/yuan
 
 # 📝 Publications 
 
-<img src='https://img.shields.io/badge/IJCAI%2025-4C81ED'/> [CRobustHAR: Multi-scale Spatial-temporal Masked Self-supervised Pre-training for Robust Human Activity Recognition]()
+<img src='https://img.shields.io/badge/IJCAI%2025-4C81ED'/> CRobustHAR: Multi-scale Spatial-temporal Masked Self-supervised Pre-training for Robust Human Activity Recognition.
+- Xiao Liu, Guan Yuan, Yanmei Zhang, **Shang Liu**, Qiuyan Yan
+- International Joint Conferences on Artificial Intelligence (IJCAI), 2025, CCF-A
 
-Xiao Liu, Guan Yuan, Yanmei Zhang, **Shang Liu**, Qiuyan Yan
+<img src='https://img.shields.io/badge/IJCAI%2025-4C81ED'/> Causality-Inspired Disentanglement for Fair Graph Neural Networks.
+- Guixian Zhang,  Debo Cheng, Guan Yuan, **Shang Liu**, Yanmei Zhang
+- International Joint Conferences on Artificial Intelligence (IJCAI), 2025, CCF-A
+
+<img src='https://img.shields.io/badge/DBSec%2025-4C81ED'/> Can Differentially Private Fine-tuning LLMs Protect Against Privacy Attacks?
+- Guixian Zhang,  Debo Cheng, Guan Yuan, **Shang Liu**, Yanmei Zhang
 - International Joint Conferences on Artificial Intelligence (IJCAI), 2025, CCF-A
 
 # 🎖 Honors and Awards
