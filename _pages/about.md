@@ -21,18 +21,23 @@ I am an Associate Professor at Prof [Guan Yuan](https://faculty.cumt.edu.cn/yuan
 
 
 # 🔥 News
-<div style="max-height: 200px; overflow-y: auto; border: 1px solid #ccc; padding: 10px;">
+<style>
+  .scrollable {
+    max-height: 200px; 
+    overflow-y: scroll; 
+  }
+</style>
 
-- *2025.04*: &nbsp;📝 Our paper was accepted to ICDE 2025.
-- *2024.12*: &nbsp;🎉🎉 I received an award from XYZ.
-- *2024.08*: &nbsp;📢 Attended a workshop at Kyoto University.
-- *2024.06*: &nbsp;🚀 Gave a talk on privacy in graphs.
-- *2023.11*: &nbsp;🎓 Graduated from Kyoto University.
-- *2023.05*: &nbsp;🧪 Released the PGB benchmark dataset.
-- *2023.01*: &nbsp;📄 Paper accepted at PAKDD.
-- *2022.09*: &nbsp;💻 Joined the CUMT faculty.
-- *2022.02*: &nbsp;📚 Finished PhD coursework.
-
+<div class="scrollable">
+ <ul>
+   <li><strong>2025.05</strong>: &nbsp;🎉 One paper is accepted by DBSec'25. </li>
+   <li><strong>2025.04</strong>: &nbsp;🎉 Two paper are accepted by IJCAI'25. </li>
+   <li><strong>2025.04</strong>: &nbsp;🎉 One paper is accepted by PAKDD'25. </li>
+   <li><strong>2024.12</strong>: &nbsp;🎉 One paper is accepted by AAAI'25. </li>
+   <li><strong>2024.11</strong>: &nbsp;🎉 One paper is accepted by ICDE'25. </li>
+   <li><strong>2024.10</strong>: &nbsp;🎉 I have joined the China University of Mining and Technology as an Associate Professor. </li>
+   <li><strong>2024.9</strong>: &nbsp;🎉 I have obtained my PhD degree at Kyoto University. </li>
+</ul>
 </div>
 
 # 📝 Publications 
