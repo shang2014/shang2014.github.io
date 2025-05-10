@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Associate Professor at School of Computer and Science, China University of Mining and Technology. I received my Ph.D. degree from Kyoto University, supervised by Prof. Yang Cao and Prof. Masatoshi Yoshikawa. My current research focuses on Differential Privacy and Graph Analysis. Please contact me if you are interested in any form of collaboration.
+I am a Associate Professor at Prof [Guan Yuan](https://faculty.cumt.edu.cn/yuanguan/zh_CN/index.htm)'s group, School of Computer and Science, China University of Mining and Technology. I received my Ph.D. degree from Kyoto University, supervised by Prof. Yang Cao and Prof. Masatoshi Yoshikawa. My current research focuses on Differential Privacy and Graph Analysis. Please contact me if you are interested in any form of collaboration.
 
 
 # 🔥 News
