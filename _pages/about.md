@@ -17,12 +17,23 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an Associate Professor at Prof [Guan Yuan](https://faculty.cumt.edu.cn/yuanguan/zh_CN/index.htm)'s group, [School of Computer and Science](https://cs.cumt.edu.cn/), [China University of Mining and Technology](https://www.cumt.edu.cn/). I received my Ph.D. degree from Kyoto University in 2024, supervised by Prof. [Yang Cao](https://yangcao888.github.io/) and Prof. [Masatoshi Yoshikawa](https://scholar.google.co.jp/citations?user=yMFHG7wAAAAJ&hl=ja). My current research focuses on Differential Privacy, Graph Analysis, and Federated Learning. Please contact me if you are interested in any form of collaboration.
+I am an Associate Professor at Prof [Guan Yuan](https://faculty.cumt.edu.cn/yuanguan/zh_CN/index.htm)'s group, School of Computer and Science, China University of Mining and Technology (CUMT). I received my Ph.D. degree from Kyoto University in 2024, supervised by Prof. [Yang Cao](https://yangcao888.github.io/) and Prof. [Masatoshi Yoshikawa](https://scholar.google.co.jp/citations?user=yMFHG7wAAAAJ&hl=ja). My current research focuses on Differential Privacy, Graph Analysis, and Federated Learning. Please contact me if you are interested in any form of collaboration.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<div style="max-height: 200px; overflow-y: auto; border: 1px solid #ccc; padding: 10px;">
+
+- *2025.04*: &nbsp;📝 Our paper was accepted to ICDE 2025.
+- *2024.12*: &nbsp;🎉🎉 I received an award from XYZ.
+- *2024.08*: &nbsp;📢 Attended a workshop at Kyoto University.
+- *2024.06*: &nbsp;🚀 Gave a talk on privacy in graphs.
+- *2023.11*: &nbsp;🎓 Graduated from Kyoto University.
+- *2023.05*: &nbsp;🧪 Released the PGB benchmark dataset.
+- *2023.01*: &nbsp;📄 Paper accepted at PAKDD.
+- *2022.09*: &nbsp;💻 Joined the CUMT faculty.
+- *2022.02*: &nbsp;📚 Finished PhD coursework.
+
+</div>
 
 # 📝 Publications 
 
