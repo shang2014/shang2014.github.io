@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shang Liu"
-description              : #"School of Computer and Science \\ China University of Mining and Technology"
+description              : "Email: shang@cumt.edu.cn"
 repository               : "shang2014/shang2014.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=7Z7yR_sAAAAJ&hl=en"
-  email            : "shang@cumt.edu.cn"
+  email            : #"shang@cumt.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
