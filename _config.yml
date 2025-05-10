@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shang Liu"
-description              : "School of Computer and Science \\ China University of Mining and Technology"
+description              : #"School of Computer and Science \\ China University of Mining and Technology"
 repository               : "shang2014/shang2014.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Shang Liu (刘上)"
   avatar           : "images/shang_photo.jpg"
-  bio              : "Associate Professor"
+  bio              : "Associate Professor at CUMT"
   location         : "Xuzhou, China"
   employer         :
   pubmed           : 
