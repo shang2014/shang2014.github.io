@@ -30,13 +30,13 @@ I am an Associate Professor at Prof [Guan Yuan](https://faculty.cumt.edu.cn/yuan
 
 <div class="scrollable">
  <ul>
-   <li><strong>2025.05</strong>: &nbsp;🎉 One paper is accepted by DBSec'25. </li>
-   <li><strong>2025.04</strong>: &nbsp;🎉 Two paper are accepted by IJCAI'25. </li>
-   <li><strong>2025.04</strong>: &nbsp;🎉 One paper is accepted by PAKDD'25. </li>
-   <li><strong>2024.12</strong>: &nbsp;🎉 One paper is accepted by AAAI'25. </li>
-   <li><strong>2024.11</strong>: &nbsp;🎉 One paper is accepted by ICDE'25. </li>
-   <li><strong>2024.10</strong>: &nbsp;🎉 I have joined the China University of Mining and Technology as an Associate Professor. </li>
-   <li><strong>2024.9</strong>: &nbsp;🎉 I have obtained my PhD degree at Kyoto University. </li>
+   <li><strong>2025.05</strong>: &nbsp; One paper is accepted by DBSec'25. </li>
+   <li><strong>2025.04</strong>: &nbsp; Two paper are accepted by IJCAI'25. </li>
+   <li><strong>2025.04</strong>: &nbsp; One paper is accepted by PAKDD'25. </li>
+   <li><strong>2024.12</strong>: &nbsp; One paper is accepted by AAAI'25. </li>
+   <li><strong>2024.11</strong>: &nbsp; One paper is accepted by ICDE'25. </li>
+   <li><strong>2024.10</strong>: &nbsp; I have joined the China University of Mining and Technology as an Associate Professor. </li>
+   <li><strong>2024.9</strong>: &nbsp; I have obtained my PhD degree at Kyoto University. </li>
 </ul>
 </div>
 
