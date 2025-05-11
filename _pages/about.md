@@ -36,7 +36,7 @@ I am an Associate Professor at Prof. [Guan Yuan](https://faculty.cumt.edu.cn/yua
    <li><strong>2024.12</strong>: &nbsp; One paper is accepted by AAAI'25. </li>
    <li><strong>2024.11</strong>: &nbsp; One paper is accepted by ICDE'25. </li>
    <li><strong>2024.10</strong>: &nbsp; I have joined the China University of Mining and Technology as an Associate Professor. </li>
-   <li><strong>2024.9</strong>: &nbsp; I have obtained my PhD degree at Kyoto University. </li>
+   <li><strong>2024.09</strong>: &nbsp; I have obtained my PhD degree at Kyoto University. </li>
 </ul>
 </div>
 
