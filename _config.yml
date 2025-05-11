@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Shang Liu (刘上)"
-  avatar           : "images/shang_photo.jpg"
+  avatar           : "images/shang_photo.png"
   bio              : "Associate Professor at CUMT"
   location         : "Xuzhou, China"
   employer         :
