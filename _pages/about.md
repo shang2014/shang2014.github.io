@@ -79,7 +79,7 @@ I am an Associate Professor at Prof. [Guan Yuan](https://faculty.cumt.edu.cn/yua
 - APWeb-WAIM joint International Conference on Web and Big Data (APWeb), 2022, CCF-C
 
 <img src='https://img.shields.io/badge/NPC%2019-4C81ED'/> [CSMqGraph: Coarse-Grained and Multi-External-Storage Multi-queue I/O Management for Graph Computing.](https://link.springer.com/chapter/10.1007/978-3-031-25158-0_39)
-- Jingyuan Ma, Zhan Shi, **Shang Liu**, Wang Zhang, Yutong Wu, Fang Wang, Dan Feng
+- Shuo Chen, Zhan Shi, Dan Feng, **Shang Liu**, Fang Wang, Lei Yang, Ruili Yu
 - Annual IFIP International Conference on Network and Parallel Computing (NPC), 2019, CCF-C, <font color="#dd0000">top paper</font><br /> 
 
 <img src='https://img.shields.io/badge/NPC%2019-4C81ED'/> [GraphScSh: Efficient I/O Scheduling and Graph Sharing for Concurrent Graph Processin.](https://link.springer.com/chapter/10.1007/978-3-030-30709-7_1)
