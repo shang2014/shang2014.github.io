@@ -93,5 +93,9 @@ I am an Associate Professor at Prof. [Guan Yuan](https://faculty.cumt.edu.cn/yua
 - External Journal Reviewer: Information Sciences
 
 # 🎖 Honors and Awards
-- *2021-2024* Kyoto University Graduate Division Fellowship. 
-- *2015* National Scholarship of China (<1%). 
+- *2021-2024,* Kyoto University Graduate Division Fellowship. 
+- *2015,* National Scholarship of China (<1%). 
+
+# ✒️ Teaching
+- 2025春季,《操作系统》(TA).
+- 2025春季,《离散数学》(TA).
