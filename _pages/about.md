@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an Associate Professor at Prof. [Guan Yuan](https://faculty.cumt.edu.cn/yuanguan/zh_CN/index.htm)'s group, School of Computer and Science, China University of Mining and Technology (CUMT). I received my Ph.D. degree from Kyoto University in 2024, supervised by Prof. [Yang Cao](https://yangcao888.github.io/) and Prof. [Masatoshi Yoshikawa](https://scholar.google.co.jp/citations?user=yMFHG7wAAAAJ&hl=ja). My current research focuses on Differential Privacy, Graph Analysis, and Federated Learning. Please contact me if you are interested in any form of collaboration.
+I am an Associate Professor at Prof. [Guan Yuan](https://faculty.cumt.edu.cn/yuanguan/zh_CN/index.htm)'s group, School of Computer and Science, China University of Mining and Technology (CUMT). I received my Ph.D. degree from Kyoto University in 2024, supervised by Prof. [Yang Cao](https://yangcao888.github.io/) and Prof. [Masatoshi Yoshikawa](https://scholar.google.co.jp/citations?user=yMFHG7wAAAAJ&hl=ja). My current research focuses on Differential Privacy, Graph Analysis, and Federated Learning. Please contact me if you are interested in any form of collaboration. [中文主页](https://faculty.cumt.edu.cn/liushang/zh_CN/index.htm)
 
 
 # 🔥 News
