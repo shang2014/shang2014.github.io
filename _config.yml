@@ -30,7 +30,6 @@ author:
   googlescholar    : "https://scholar.google.com.hk/citations?user=7Z7yR_sAAAAJ&hl=en"
   email            : #"shang@cumt.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://faculty.cumt.edu.cn/liushang/zh_CN/index.htm" 
  # zh_homepage      : "https://faculty.cumt.edu.cn/liushang/zh_CN/index.htm" 
   bitbucket        :
   codepen          :
@@ -58,7 +57,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+  uri              : "https://faculty.cumt.edu.cn/liushang/zh_CN/index.htm" 
 
 # Reading Files
 include:
