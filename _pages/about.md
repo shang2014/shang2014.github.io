@@ -30,6 +30,7 @@ I am an Associate Professor at Prof. [Guan Yuan](https://faculty.cumt.edu.cn/yua
 
 <div class="scrollable">
  <ul>
+   <li><strong>2025.06</strong>: &nbsp; One paper is accepted by VLDB'25. </li>
    <li><strong>2025.05</strong>: &nbsp; One paper is accepted by DBSec'25. </li>
    <li><strong>2025.04</strong>: &nbsp; Two papers are accepted by IJCAI'25. </li>
    <li><strong>2025.04</strong>: &nbsp; One paper is accepted by PAKDD'25. </li>
@@ -41,7 +42,11 @@ I am an Associate Professor at Prof. [Guan Yuan](https://faculty.cumt.edu.cn/yua
 </div>
 
 # 📝 Publications 
-
+<img src='https://img.shields.io/badge/VLDB%2025-4C81ED'/> 
+Continuous Publication of Weighted Graphs with Local Differential Privacy.
+- Wen Xu, Pengpeng Qiao, **Shang Liu**, Zhirun Zheng, Yang Cao, Zhetao Li
+- International Conference on Very Large Data Bases (VLDB), 2025, CCF-A
+- 
 <img src='https://img.shields.io/badge/DBSec%2025-4C81ED'/> [Can Differentially Private Fine-tuning LLMs Protect Against Privacy Attacks?](https://www.arxiv.org/abs/2504.21036)
 - Hao Du, **Shang Liu**, Yang Cao
 - Conference on Data and Applications Security and Privacy (DBSec), 2025
