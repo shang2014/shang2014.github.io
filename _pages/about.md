@@ -92,8 +92,8 @@ Continuous Publication of Weighted Graphs with Local Differential Privacy.
 - Annual IFIP International Conference on Network and Parallel Computing (NPC), 2019, CCF-C 
 
 # 💻 Academic Services
-- Journal Reviewer: IEEE TDSC, IEEE TKDE, IEEE TIFS
 - Conference PC: AAAI26, AsiaCCS26, ADMA25(meta reviewer), IJCAI25
+- Journal Reviewer: IEEE TDSC, IEEE TKDE, IEEE TIFS
 - External Conference Reviewer: SIGMOD24, PAKDD24, ICASSP24, DASFAA24, ICDCS24, VLDB23, ICDE23, AAAI23, SoCC23, DASFAA23, BigData23, PAKDD23, ICDE22, WSDM22
 - External Journal Reviewer: Information Sciences
 
