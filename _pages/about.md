@@ -104,3 +104,9 @@ Continuous Publication of Weighted Graphs with Local Differential Privacy.
 # ✒️ Teaching
 - 2025春季,《操作系统》(TA).
 - 2025春季,《离散数学》(TA).
+
+<div id="clustrmaps-container" style="width: 300px; height: 200px; position: relative;">
+  <script type="text/javascript" id="clustrmaps" 
+    src="//clustrmaps.com/map_v2.js?d=j2P-1zF4D1SxxgYEb-tcl8IPUhcf145Bw9HPn9DE8nU&cl=ffffff&w=a">
+  </script>
+</div>
