@@ -30,10 +30,13 @@ I am an Associate Professor at Prof. [Guan Yuan](https://faculty.cumt.edu.cn/yua
 
 <div class="scrollable">
  <ul>
+   <li><strong>2025.07</strong>: &nbsp; I am invited as a PC member for AAAI'26. </li>
    <li><strong>2025.06</strong>: &nbsp; One paper is accepted by VLDB'25. </li>
+   <li><strong>2025.06</strong>: &nbsp; I am invited as a PC member for AsiaCCS'26. </li>
    <li><strong>2025.05</strong>: &nbsp; One paper is accepted by DBSec'25. </li>
    <li><strong>2025.04</strong>: &nbsp; Two papers are accepted by IJCAI'25. </li>
    <li><strong>2025.04</strong>: &nbsp; One paper is accepted by PAKDD'25. </li>
+   <li><strong>2025.04</strong>: &nbsp; I am invited as a meta-reviewer for ADMA'25. </li>
    <li><strong>2024.12</strong>: &nbsp; One paper is accepted by AAAI'25. </li>
    <li><strong>2024.11</strong>: &nbsp; One paper is accepted by ICDE'25. </li>
    <li><strong>2024.10</strong>: &nbsp; I have joined the China University of Mining and Technology as an Associate Professor. </li>
