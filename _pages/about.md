@@ -115,5 +115,3 @@ Continuous Publication of Weighted Graphs with Local Differential Privacy.
   </script>
 </div>
 
-<span id="busuanzi_container_site_uv">Site Visitors: <span id="busuanzi_value_site_uv"></span></span>
-
