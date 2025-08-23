@@ -94,10 +94,12 @@ Continuous Publication of Weighted Graphs with Local Differential Privacy.
 - **Shang Liu**, Zhan Shi, Dan Feng, Shuo Chen, Fang Wang, Yamei Peng
 - Annual IFIP International Conference on Network and Parallel Computing (NPC), 2019, CCF-C 
 
+<!--
 # 🔬 Research Grants
 - PI: 江苏省自然科学基金青年基金项目, 2025-2028
 - PI: 中央高校基本科研业务费青年科技基金项目, 2025-2027
 - PI: 计算机软件新技术国家重点实验室开放课题项目, 2025-2027
+-->
 
 # 💻 Academic Services
 - Conference PC: AAAI26, AsiaCCS26, ADMA25(meta reviewer), IJCAI25
