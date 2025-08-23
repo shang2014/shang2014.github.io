@@ -102,7 +102,7 @@ Continuous Publication of Weighted Graphs with Local Differential Privacy.
 
 # 🎖 Honors and Awards
 - *2021-2024,* Kyoto University Graduate Division Fellowship. 
-- *2015,* National Scholarship of China (<1%). 
+- *2015,* National Scholarship of China (<1%).
 
 # ✒️ Teaching
 - 2025春季,《操作系统》(TA).
