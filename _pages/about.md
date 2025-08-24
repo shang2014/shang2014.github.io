@@ -94,21 +94,26 @@ Continuous Publication of Weighted Graphs with Local Differential Privacy.
 - **Shang Liu**, Zhan Shi, Dan Feng, Shuo Chen, Fang Wang, Yamei Peng
 - Annual IFIP International Conference on Network and Parallel Computing (NPC), 2019, CCF-C 
 
-# 🔬 Research Grants
-- PI: 江苏省自然科学基金青年基金项目, 2025-2028
-- PI: 中央高校基本科研业务费青年科技基金项目, 2025-2027
-- PI: 南京大学计算机软件新技术国家重点实验室开放课题项目, 2025-2027
-
 # 💻 Academic Services
 - Conference PC: AAAI26, AsiaCCS26, ADMA25(meta reviewer), IJCAI25
 - Journal Reviewer: IEEE TDSC, IEEE TKDE, IEEE TIFS
-- External Conference Reviewer: SIGMOD24, PAKDD24, ICASSP24, DASFAA24, ICDCS24, VLDB23, ICDE23, AAAI23, SoCC23, DASFAA23, BigData23, PAKDD23, ICDE22, WSDM22
-- External Journal Reviewer: Information Sciences
+- External Reviewer: SIGMOD24, PAKDD24, ICASSP24, DASFAA24, ICDCS24, VLDB23, ICDE23, AAAI23, SoCC23, DASFAA23, BigData23, PAKDD23, ICDE22, WSDM22, Information Sciences
 
 # 🎖 Honors and Awards
 - *2021-2024,* Kyoto University Graduate Division Fellowship. 
 - *2015,* National Scholarship of China (<1%).
 
+# 🔬 Research Grants
+- PI: 江苏省自然科学基金青年基金项目, 2025-2028
+- PI: 中央高校基本科研业务费青年科技基金项目, 2025-2027
+- PI: 南京大学计算机软件新技术国家重点实验室开放课题项目, 2025-2027
+
+# 🕹️ Patents
+- 施展;冯丹;**刘上**;戴凯航;于瑞丽;曹孟媛;杨蕾;杨文鑫;陈硕;陈静; 匹配顺序大I/O负载特征的粗粒度条带化方法及系统,2023-3-10,中国,ZL2018110534 21.5
+- 施展;冯丹;戴凯航;曹孟媛;彭亚妹;**刘上**;杨蕾;杨文鑫;陈硕;陈静;一种基于I/O调度的多任务外存模式图处理方法,2022-12-02,中国, ZL201811053424.9
+- 施展;冯丹;曹孟媛;戴凯航;王子毅;**刘上**;杨蕾;杨文鑫;陈硕;陈静;一种基于BFS森林的社交网络中的知识图谱数据布局方法,2021-07-27,中国, ZL201811082264.0
+- 王芳;冯丹;陈静;蒋子威;王子毅;**刘上**;杨蕾;杨文鑫;陈硕;曹孟媛;戴凯航; 施展;一种基于索引定位的图计算系统的外存访问方法,2020-11-24,中国, ZL201811082365.8
+  
 # ✒️ Teaching
 - 2025春季,《操作系统》(TA).
 - 2025春季,《离散数学》(TA).
