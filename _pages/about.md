@@ -54,7 +54,7 @@ Continuous Publication of Weighted Graphs with Local Differential Privacy.
 - Hao Du, **Shang Liu**, Yang Cao
 - Conference on Data and Applications Security and Privacy (DBSec), 2025
  
-<img src='https://img.shields.io/badge/IJCAI%2025-4C81ED'/> CRobustHAR: Multi-scale Spatial-temporal Masked Self-supervised Pre-training for Robust Human Activity Recognition.
+<img src='https://img.shields.io/badge/IJCAI%2025-4C81ED'/> [RobustHAR: Multi-scale Spatial-temporal Masked Self-supervised Pre-training for Robust Human Activity Recognition.](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/6153.pdf)
 - Xiao Liu, Guan Yuan, Yanmei Zhang, **Shang Liu**, Qiuyan Yan
 - International Joint Conferences on Artificial Intelligence (IJCAI), 2025, CCF-A
 
