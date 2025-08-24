@@ -96,8 +96,8 @@ Continuous Publication of Weighted Graphs with Local Differential Privacy.
 
 # 🔬 Research Grants
 - PI: 江苏省自然科学基金青年基金项目, 2025-2028.
-- PI: 中央高校基本科研业务费青年科技基金项目, 2025QN1155, 2025-2027.
-- PI: 南京大学计算机软件新技术国家重点实验室开放课题项目, KFKT2025B79, 2025-2027.
+- PI: 中央高校基本科研业务费青年科技基金项目 (NO.2025QN1155), 2025-2027.
+- PI: 南京大学计算机软件新技术国家重点实验室开放课题项目 (NO. KFKT2025B79), 2025-2027.
   
 # 💻 Academic Services
 - Conference PC: AAAI26, AsiaCCS26, ADMA25(meta reviewer), IJCAI25
