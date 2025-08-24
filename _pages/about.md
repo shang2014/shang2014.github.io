@@ -58,7 +58,7 @@ Continuous Publication of Weighted Graphs with Local Differential Privacy.
 - Xiao Liu, Guan Yuan, Yanmei Zhang, **Shang Liu**, Qiuyan Yan
 - International Joint Conferences on Artificial Intelligence (IJCAI), 2025, CCF-A.
 
-<img src='https://img.shields.io/badge/IJCAI%2025-4C81ED'/> Causality-Inspired Disentanglement for Fair Graph Neural Networks.
+<img src='https://img.shields.io/badge/IJCAI%2025-4C81ED'/> [Causality-Inspired Disentanglement for Fair Graph Neural Networks.](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/6226.pdf)
 - Guixian Zhang,  Debo Cheng, Guan Yuan, **Shang Liu**, Yanmei Zhang
 - International Joint Conferences on Artificial Intelligence (IJCAI), 2025, CCF-A.
 
