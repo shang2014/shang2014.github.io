@@ -93,13 +93,6 @@ Continuous Publication of Weighted Graphs with Local Differential Privacy.
 <img src='https://img.shields.io/badge/NPC%2019-4C81ED'/> [GraphScSh: Efficient I/O Scheduling and Graph Sharing for Concurrent Graph Processin.](https://link.springer.com/chapter/10.1007/978-3-030-30709-7_1)
 - **Shang Liu**, Zhan Shi, Dan Feng, Shuo Chen, Fang Wang, Yamei Peng
 - Annual IFIP International Conference on Network and Parallel Computing (NPC), 2019, CCF-C
-
- <!--
-# 🔬 Research Grants
-- PI: 江苏省自然科学基金青年基金项目, 2025-2028.
-- PI: 中央高校基本科研业务费青年科技基金项目 (No.2025QN1155), 2025-2027.
-- PI: 南京大学计算机软件新技术国家重点实验室开放课题项目 (No. KFKT2025B79), 2025-2027.
-  -->
   
 # 💻 Academic Services
 - Conference PC: AAAI26, AsiaCCS26, ADMA25(meta reviewer), IJCAI25
