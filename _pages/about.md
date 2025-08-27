@@ -45,6 +45,14 @@ I am an Associate Professor at Prof. [Guan Yuan](https://faculty.cumt.edu.cn/yua
 </div>
 
 # 📝 Publications 
+<img src='https://img.shields.io/badge/ICDE%2025-4C81ED'/> [PGB: Benchmarking Differentially Private Synthetic Graph Generation Algorithms.](https://arxiv.org/pdf/2408.02928)
+- **Shang Liu**, Hao Du, Yang Cao, Bo Yan, Jinfei Liu, Masatoshi Yoshikawa
+- IEEE International Conference on Data Engineering (ICDE), 2025, CCF-A
+
+<img src='https://img.shields.io/badge/ICDE%2024-4C81ED'/> [CARGO: Crypto-Assisted Differentially Private Triangle Counting without Trusted Servers.](https://arxiv.org/abs/2312.12938)
+- **Shang Liu**, Yang Cao, Takao Murakami, Jinfei Liu, Masatoshi Yoshikawa
+- IEEE International Conference on Data Engineering (ICDE), 2024, CCF-A
+
 <img src='https://img.shields.io/badge/VLDB%2025-4C81ED'/> 
 Continuous Publication of Weighted Graphs with Local Differential Privacy.
 - Wen Xu, Pengpeng Qiao, **Shang Liu**, Zhirun Zheng, Yang Cao, Zhetao Li
@@ -69,14 +77,6 @@ Continuous Publication of Weighted Graphs with Local Differential Privacy.
 <img src='https://img.shields.io/badge/AAAI%2025-4C81ED'/> [Federated Graph Condensation with Information Bottleneck Principles.](https://arxiv.org/pdf/2405.03911)
 - Bo Yan, Sihao He, Cheng Yang, **Shang Liu**, Yang Cao, Chuan Shi
 - Association for the Advancement of Artificial Intelligence (AAAI), 2025, CCF-A
-
-<img src='https://img.shields.io/badge/ICDE%2025-4C81ED'/> [PGB: Benchmarking Differentially Private Synthetic Graph Generation Algorithms.](https://arxiv.org/pdf/2408.02928)
-- **Shang Liu**, Hao Du, Yang Cao, Bo Yan, Jinfei Liu, Masatoshi Yoshikawa
-- IEEE International Conference on Data Engineering (ICDE), 2025, CCF-A
-
-<img src='https://img.shields.io/badge/ICDE%2024-4C81ED'/> [CARGO: Crypto-Assisted Differentially Private Triangle Counting without Trusted Servers.](https://arxiv.org/abs/2312.12938)
-- **Shang Liu**, Yang Cao, Takao Murakami, Jinfei Liu, Masatoshi Yoshikawa
-- IEEE International Conference on Data Engineering (ICDE), 2024, CCF-A
 
 <img src='https://img.shields.io/badge/BigData%2022-4C81ED'/> [A crypto-assisted approach for publishing graph statistics with node local differential privacy.](https://ieeexplore.ieee.org/iel7/10020192/10020156/10020435.pdf)
 - **Shang Liu**, Yang Cao, Takao Murakami, Masatoshi Yoshikawa
