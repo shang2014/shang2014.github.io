@@ -54,7 +54,7 @@ I am an Associate Professor at Prof. [Guan Yuan](https://faculty.cumt.edu.cn/yua
 - IEEE International Conference on Data Engineering (ICDE), 2024, CCF-A
 
 <img src='https://img.shields.io/badge/VLDB%2025-4C81ED'/> 
-Continuous Publication of Weighted Graphs with Local Differential Privacy.
+[Continuous Publication of Weighted Graphs with Local Differential Privacy.](https://www.vldb.org/pvldb/vol18/p4214-li.pdf)
 - Wen Xu, Pengpeng Qiao, **Shang Liu**, Zhirun Zheng, Yang Cao, Zhetao Li
 - International Conference on Very Large Data Bases (VLDB), 2025, CCF-A
   
