@@ -92,10 +92,17 @@ I am an Associate Professor at Prof. [Guan Yuan](https://faculty.cumt.edu.cn/yua
 <img src='https://img.shields.io/badge/NPC%2019-4C81ED'/> [GraphScSh: Efficient I/O Scheduling and Graph Sharing for Concurrent Graph Processin.](https://link.springer.com/chapter/10.1007/978-3-030-30709-7_1)
 - **Shang Liu**, Zhan Shi, Dan Feng, Shuo Chen, Fang Wang, Yamei Peng
 - Annual IFIP International Conference on Network and Parallel Computing (NPC), 2019, CCF-C
+
+# 🔬 Research Grants
+- PI: 国家自然科学基金青年科学基金项目 (No.62502519), 2026-2028.
+- PI: 江苏省自然科学基金青年基金项目, 2025-2028.
+- PI: 中央高校基本科研业务费青年科技基金项目 (No.2025QN1155), 2025-2027.
+- PI: 浙江大学区块链与数据安全全国重点实验室开放课题项目 (No. A2548), 2025-2027.
+- PI: 南京大学计算机软件新技术国家重点实验室开放课题项目 (No. KFKT2025B79), 2025-2027.
   
 # 💻 Academic Services
 - Conference PC: AAAI26, AsiaCCS26, ADMA25(meta reviewer), IJCAI25
-- Journal Reviewer: IEEE TDSC, IEEE TKDE, IEEE TIFS
+- Journal Reviewer: IEEE TDSC, IEEE TKDE, IEEE TIFS, WWWJ
 - External Reviewer: SIGMOD24, PAKDD24, ICASSP24, DASFAA24, ICDCS24, VLDB23, ICDE23, AAAI23, SoCC23, DASFAA23, BigData23, PAKDD23, ICDE22, WSDM22, Information Sciences
 
 # 🎖 Honors and Awards
