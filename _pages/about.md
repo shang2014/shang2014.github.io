@@ -119,7 +119,6 @@ I am an Associate Professor at Prof. [Guan Yuan](https://faculty.cumt.edu.cn/yua
   
 # ✒️ Teaching
 - 2025秋季,《云计算与大数据》,《网络攻击与防御》(TA).
-- 2025春季,《操作系统》(TA).
-- 2025春季,《离散数学》(TA).
+- 2025春季,《操作系统》(TA),《离散数学》(TA).
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=j2P-1zF4D1SxxgYEb-tcl8IPUhcf145Bw9HPn9DE8nU'></script>
