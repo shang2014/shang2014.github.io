@@ -94,8 +94,8 @@ I am an Associate Professor at Prof. [Guan Yuan](https://faculty.cumt.edu.cn/yua
 - Annual IFIP International Conference on Network and Parallel Computing (NPC), 2019, CCF-C
 
 # 🔬 Research Grants
-- PI: 国家自然科学基金青年科学基金项目 (No.62502519), 2026-2028.
-- PI: 江苏省自然科学基金青年基金项目, 2025-2028.
+- PI: 国家自然科学基金青年科学基金项目 (No. 62502519), 2026-2028.
+- PI: 江苏省自然科学基金青年基金项目 (No. BK20251643), 2025-2028.
 - PI: 中央高校基本科研业务费青年科技基金项目 (No.2025QN1155), 2025-2027.
 - PI: 浙江大学区块链与数据安全全国重点实验室开放课题项目 (No. A2548), 2025-2027.
 - PI: 南京大学计算机软件新技术国家重点实验室开放课题项目 (No. KFKT2025B79), 2025-2027.
