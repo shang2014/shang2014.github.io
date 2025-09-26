@@ -45,15 +45,15 @@ I am an Associate Professor at Prof. [Guan Yuan](https://faculty.cumt.edu.cn/yua
 </div>
 
 # 📝 Publications 
-<img src='https://img.shields.io/badge/ICDE%2025-4C81ED'/> [PGB: Benchmarking Differentially Private Synthetic Graph Generation Algorithms.](https://arxiv.org/pdf/2408.02928)
+<img src='https://img.shields.io/badge/ICDE%2025-4C81ED'/> [PGB: Benchmarking Differentially Private Synthetic Graph Generation Algorithms](https://arxiv.org/pdf/2408.02928)
 - **Shang Liu**, Hao Du, Yang Cao, Bo Yan, Jinfei Liu, Masatoshi Yoshikawa
 - IEEE International Conference on Data Engineering (ICDE), 2025, CCF-A
 
-<img src='https://img.shields.io/badge/ICDE%2024-4C81ED'/> [CARGO: Crypto-Assisted Differentially Private Triangle Counting without Trusted Servers.](https://arxiv.org/abs/2312.12938)
+<img src='https://img.shields.io/badge/ICDE%2024-4C81ED'/> [CARGO: Crypto-Assisted Differentially Private Triangle Counting without Trusted Servers](https://arxiv.org/abs/2312.12938)
 - **Shang Liu**, Yang Cao, Takao Murakami, Jinfei Liu, Masatoshi Yoshikawa
 - IEEE International Conference on Data Engineering (ICDE), 2024, CCF-A
 
-<img src='https://img.shields.io/badge/VLDB%2025-4C81ED'/> [Continuous Publication of Weighted Graphs with Local Differential Privacy.](https://www.vldb.org/pvldb/vol18/p4214-li.pdf)
+<img src='https://img.shields.io/badge/VLDB%2025-4C81ED'/> [Continuous Publication of Weighted Graphs with Local Differential Privacy](https://www.vldb.org/pvldb/vol18/p4214-li.pdf)
 - Wen Xu, Pengpeng Qiao, **Shang Liu**, Zhirun Zheng, Yang Cao, Zhetao Li
 - International Conference on Very Large Data Bases (VLDB), 2025, CCF-A
   
@@ -61,15 +61,15 @@ I am an Associate Professor at Prof. [Guan Yuan](https://faculty.cumt.edu.cn/yua
 - Hao Du, **Shang Liu**, Yang Cao
 - Conference on Data and Applications Security and Privacy (DBSec), 2025
  
-<img src='https://img.shields.io/badge/IJCAI%2025-4C81ED'/> [RobustHAR: Multi-scale Spatial-temporal Masked Self-supervised Pre-training for Robust Human Activity Recognition.](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/6153.pdf)
+<img src='https://img.shields.io/badge/IJCAI%2025-4C81ED'/> [RobustHAR: Multi-scale Spatial-temporal Masked Self-supervised Pre-training for Robust Human Activity Recognition](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/6153.pdf)
 - Xiao Liu, Guan Yuan, Yanmei Zhang, **Shang Liu**, Qiuyan Yan
 - International Joint Conferences on Artificial Intelligence (IJCAI), 2025, CCF-A
 
-<img src='https://img.shields.io/badge/IJCAI%2025-4C81ED'/> [Causality-Inspired Disentanglement for Fair Graph Neural Networks.](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/6226.pdf)
+<img src='https://img.shields.io/badge/IJCAI%2025-4C81ED'/> [Causality-Inspired Disentanglement for Fair Graph Neural Networks](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/6226.pdf)
 - Guixian Zhang,  Debo Cheng, Guan Yuan, **Shang Liu**, Yanmei Zhang
 - International Joint Conferences on Artificial Intelligence (IJCAI), 2025, CCF-A
 
-<img src='https://img.shields.io/badge/PAKDD%2025-4C81ED'/> [Privacy in Fine-tuning Large Language Models: Attacks, Defenses, and Future Directions.](https://www.arxiv.org/abs/2412.16504)
+<img src='https://img.shields.io/badge/PAKDD%2025-4C81ED'/> [Privacy in Fine-tuning Large Language Models: Attacks, Defenses, and Future Directions](https://www.arxiv.org/abs/2412.16504)
 - Hao Du, **Shang Liu**, Lele Zheng, Yang Cao, Atsuyoshi Nakamura, Lei Chen
 - Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2025, CCF-C
 
@@ -77,7 +77,7 @@ I am an Associate Professor at Prof. [Guan Yuan](https://faculty.cumt.edu.cn/yua
 - Bo Yan, Sihao He, Cheng Yang, **Shang Liu**, Yang Cao, Chuan Shi
 - Association for the Advancement of Artificial Intelligence (AAAI), 2025, CCF-A
 
-<img src='https://img.shields.io/badge/BigData%2022-4C81ED'/> [A crypto-assisted approach for publishing graph statistics with node local differential privacy.](https://ieeexplore.ieee.org/iel7/10020192/10020156/10020435.pdf)
+<img src='https://img.shields.io/badge/BigData%2022-4C81ED'/> [A crypto-assisted approach for publishing graph statistics with node local differential privacy](https://ieeexplore.ieee.org/iel7/10020192/10020156/10020435.pdf)
 - **Shang Liu**, Yang Cao, Takao Murakami, Masatoshi Yoshikawa
 - IEEE International Conference on Big Data (BigData), 2022, CCF-C
 
@@ -85,11 +85,11 @@ I am an Associate Professor at Prof. [Guan Yuan](https://faculty.cumt.edu.cn/yua
 - Jingyuan Ma, Zhan Shi, **Shang Liu**, Wang Zhang, Yutong Wu, Fang Wang, Dan Feng
 - APWeb-WAIM joint International Conference on Web and Big Data (APWeb), 2022, CCF-C
 
-<img src='https://img.shields.io/badge/NPC%2019-4C81ED'/> [CSMqGraph: Coarse-Grained and Multi-External-Storage Multi-queue I/O Management for Graph Computing.](https://link.springer.com/chapter/10.1007/978-3-031-25158-0_39)
+<img src='https://img.shields.io/badge/NPC%2019-4C81ED'/> [CSMqGraph: Coarse-Grained and Multi-External-Storage Multi-queue I/O Management for Graph Computing](https://link.springer.com/chapter/10.1007/978-3-031-25158-0_39)
 - Shuo Chen, Zhan Shi, Dan Feng, **Shang Liu**, Fang Wang, Lei Yang, Ruili Yu
 - Annual IFIP International Conference on Network and Parallel Computing (NPC), 2019, CCF-C, <font color="#dd0000">top paper</font><br />
 
-<img src='https://img.shields.io/badge/NPC%2019-4C81ED'/> [GraphScSh: Efficient I/O Scheduling and Graph Sharing for Concurrent Graph Processin.](https://link.springer.com/chapter/10.1007/978-3-030-30709-7_1)
+<img src='https://img.shields.io/badge/NPC%2019-4C81ED'/> [GraphScSh: Efficient I/O Scheduling and Graph Sharing for Concurrent Graph Processing](https://link.springer.com/chapter/10.1007/978-3-030-30709-7_1)
 - **Shang Liu**, Zhan Shi, Dan Feng, Shuo Chen, Fang Wang, Yamei Peng
 - Annual IFIP International Conference on Network and Parallel Computing (NPC), 2019, CCF-C
 
