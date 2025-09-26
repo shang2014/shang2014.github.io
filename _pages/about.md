@@ -73,7 +73,7 @@ I am an Associate Professor at Prof. [Guan Yuan](https://faculty.cumt.edu.cn/yua
 - Hao Du, **Shang Liu**, Lele Zheng, Yang Cao, Atsuyoshi Nakamura, Lei Chen
 - Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2025, CCF-C
 
-<img src='https://img.shields.io/badge/AAAI%2025-4C81ED'/> [Federated Graph Condensation with Information Bottleneck Principles.](https://arxiv.org/pdf/2405.03911)
+<img src='https://img.shields.io/badge/AAAI%2025-4C81ED'/> [Federated Graph Condensation with Information Bottleneck Principles](https://arxiv.org/pdf/2405.03911)
 - Bo Yan, Sihao He, Cheng Yang, **Shang Liu**, Yang Cao, Chuan Shi
 - Association for the Advancement of Artificial Intelligence (AAAI), 2025, CCF-A
 
@@ -81,7 +81,7 @@ I am an Associate Professor at Prof. [Guan Yuan](https://faculty.cumt.edu.cn/yua
 - **Shang Liu**, Yang Cao, Takao Murakami, Masatoshi Yoshikawa
 - IEEE International Conference on Big Data (BigData), 2022, CCF-C
 
-<img src='https://img.shields.io/badge/APWeb%2022-4C81ED'/> [LSM-Subgraph: Log-Structured Merge-Subgraph for Temporal Graph Processing.](https://link.springer.com/chapter/10.1007/978-3-031-25158-0_39)
+<img src='https://img.shields.io/badge/APWeb%2022-4C81ED'/> [LSM-Subgraph: Log-Structured Merge-Subgraph for Temporal Graph Processing](https://link.springer.com/chapter/10.1007/978-3-031-25158-0_39)
 - Jingyuan Ma, Zhan Shi, **Shang Liu**, Wang Zhang, Yutong Wu, Fang Wang, Dan Feng
 - APWeb-WAIM joint International Conference on Web and Big Data (APWeb), 2022, CCF-C
 
