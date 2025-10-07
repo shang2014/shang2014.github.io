@@ -102,7 +102,7 @@ I am an Associate Professor at Prof. [Guan Yuan](https://faculty.cumt.edu.cn/yua
 - PI: 南京大学计算机软件新技术国家重点实验室开放课题项目 (No. KFKT2025B79), 2025-2027.
   
 # 💻 Academic Services
-- Conference PC: AAAI26, AsiaCCS26, ADMA25(meta reviewer), IJCAI25
+- Conference PC: WWW26, AAAI26, AsiaCCS26, ADMA25(meta reviewer), IJCAI25
 - Journal Reviewer: IEEE TDSC, IEEE TKDE, IEEE TIFS, WWWJ, ACM TOPS
 - External Reviewer: SIGMOD24, PAKDD24, ICASSP24, DASFAA24, ICDCS24, VLDB23, ICDE23, AAAI23, SoCC23, DASFAA23, BigData23, PAKDD23, ICDE22, WSDM22, Information Sciences
 
