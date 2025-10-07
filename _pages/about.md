@@ -30,6 +30,7 @@ I am an Associate Professor at Prof. [Guan Yuan](https://faculty.cumt.edu.cn/yua
 
 <div class="scrollable">
  <ul>
+   <li><strong>2025.10</strong>: &nbsp; I am invited as a PC member for WWW'26. </li>
    <li><strong>2025.07</strong>: &nbsp; I am invited as a PC member for AAAI'26. </li>
    <li><strong>2025.06</strong>: &nbsp; One paper is accepted by VLDB'25. </li>
    <li><strong>2025.06</strong>: &nbsp; I am invited as a PC member for AsiaCCS'26. </li>
