@@ -112,8 +112,8 @@ I am an Associate Professor at Prof. [Guan Yuan](https://faculty.cumt.edu.cn/yua
 - *2015,* National Scholarship of China (<1%).
   
 # ✒️ Teaching
-- 2025秋季,《云计算与大数据》,《网络攻击与防御》(TA).
-- 2025春季,《操作系统》(TA),《离散数学》(TA).
+- Fall 2025,《云计算与大数据》,《网络攻击与防御》(TA).
+- Spring 2025,《操作系统》(TA),《离散数学》(TA).
 
 # 🏆 Team
 - Graduate: Yuhan Bao (M2), Wei Zhang (M2): Co-advised with Prof. Guan Yuan
