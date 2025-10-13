@@ -116,7 +116,8 @@ I am an Associate Professor at Prof. [Guan Yuan](https://faculty.cumt.edu.cn/yua
 - Spring 2025,《操作系统》(TA),《离散数学》(TA).
 
 # 🏆 Team
-- Graduate: Yuhan Bao (M2), Wei Zhang (M2): Co-advised with Prof. Guan Yuan
-- Undergraduate: Zhan Yang (B4), Hongbin Zhao (B3), Jingchao Hu (B3)
+- Graduate: Yuhan Bao (M2), Wei Zhang (M2): Co-advised with Prof. Guan Yuan.
+- Undergraduate: Zhan Yang (B4), Hongbin Zhao (B3), Jingchao Hu (B3).
+
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=j2P-1zF4D1SxxgYEb-tcl8IPUhcf145Bw9HPn9DE8nU'></script>
