@@ -115,9 +115,9 @@ I am an Associate Professor at Prof. [Guan Yuan](https://faculty.cumt.edu.cn/yua
 - Fall 2025,《云计算与大数据》,《网络攻击与防御》(TA).
 - Spring 2025,《操作系统》(TA),《离散数学》(TA).
 
-# 🏆 Team
-- Graduate: Yuhan Bao (M2), Wei Zhang (M2): Co-advised with Prof. Guan Yuan.
-- Undergraduate: Zhan Yang (B4), Hongbin Zhao (B3), Jingchao Hu (B3).
+# 🏆 Team （Update: 2025.10.19）
+- Graduate: Hao Du (M2, Co-advised with Prof. Yang Cao), Yuhan Bao & Wei Zhang (M2, Co-advised with Prof. Guan Yuan). 
+- Undergraduate: Zhan Yang (B4, Next: Zhejiang University), Hongbin Zhao (B3), Jingchao Hu (B3), Zixin Xu (B2).
 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=j2P-1zF4D1SxxgYEb-tcl8IPUhcf145Bw9HPn9DE8nU'></script>
