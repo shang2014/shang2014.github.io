@@ -104,8 +104,8 @@ I am an Associate Professor at Prof. [Guan Yuan](https://faculty.cumt.edu.cn/yua
   
 # 💻 Academic Services
 - Conference PC: WWW26, AAAI26, AsiaCCS26, ADMA25(meta reviewer), IJCAI25
-- Journal Reviewer: IEEE TDSC, IEEE TKDE, IEEE TIFS, WWWJ, ACM TOPS
 - Conference Session Chair: VLDB25, ADMA25
+- Journal Reviewer: IEEE TDSC, IEEE TKDE, IEEE TIFS, WWWJ, ACM TOPS
 - External Reviewer: SIGMOD24, PAKDD24, ICASSP24, DASFAA24, ICDCS24, VLDB23, ICDE23, AAAI23, SoCC23, DASFAA23, BigData23, PAKDD23, ICDE22, WSDM22, Information Sciences
 
 # 🎖 Honors and Awards
