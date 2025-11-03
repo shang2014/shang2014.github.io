@@ -95,7 +95,7 @@ I am an Associate Professor at Prof. [Guan Yuan](https://faculty.cumt.edu.cn/yua
 - Annual IFIP International Conference on Network and Parallel Computing (NPC), 2019, CCF-C
 
 # 🔬 Research Grants
-- PI: 京津冀环境综合治理国家科技重大专项子课题 (No. 2025ZD1208202), 2025-2028.
+- PI: 国家科技重大专项子课题 (No. 2025ZD1208202), 2025-2028.
 - PI: 国家自然科学基金青年科学基金项目 (No. 62502519), 2026-2028.
 - PI: 江苏省自然科学基金青年基金项目 (No. BK20251643), 2025-2028.
 - PI: 中央高校基本科研业务费青年科技基金项目 (No.2025QN1155), 2025-2027.
@@ -107,6 +107,7 @@ I am an Associate Professor at Prof. [Guan Yuan](https://faculty.cumt.edu.cn/yua
 - Conference Session Chair: VLDB25, ADMA25
 - Journal Reviewer: IEEE TDSC, IEEE TKDE, IEEE TIFS, WWWJ, ACM TOPS
 - External Reviewer: SIGMOD24, PAKDD24, ICASSP24, DASFAA24, ICDCS24, VLDB23, ICDE23, AAAI23, SoCC23, DASFAA23, BigData23, PAKDD23, ICDE22, WSDM22, Information Sciences
+- CCF信息系统专业委员会执行委员、CCF网络与系统安全专业委员会执行委员、中国中文信息学会大数据安全与隐私计算专业委员会委员
 
 # 🎖 Honors and Awards
 - *2021-2024,* Kyoto University Graduate Division Fellowship. 
