@@ -30,6 +30,7 @@ I am an Associate Professor at Prof. [Guan Yuan](https://faculty.cumt.edu.cn/yua
 
 <div class="scrollable">
  <ul>
+   <li><strong>2025.11</strong>: &nbsp; One paper is accepted by AAAI'26. </li>
    <li><strong>2025.10</strong>: &nbsp; I am invited as a PC member for WWW'26. </li>
    <li><strong>2025.07</strong>: &nbsp; I am invited as a PC member for AAAI'26. </li>
    <li><strong>2025.06</strong>: &nbsp; One paper is accepted by VLDB'25. </li>
@@ -107,7 +108,7 @@ I am an Associate Professor at Prof. [Guan Yuan](https://faculty.cumt.edu.cn/yua
 - Conference Session Chair: VLDB25, ADMA25
 - Journal Reviewer: IEEE TDSC, IEEE TKDE, IEEE TIFS, WWWJ, ACM TOPS
 - External Reviewer: SIGMOD24, PAKDD24, ICASSP24, DASFAA24, ICDCS24, VLDB23, ICDE23, AAAI23, SoCC23, DASFAA23, BigData23, PAKDD23, ICDE22, WSDM22, Information Sciences
-- CCF信息系统专业委员会执行委员、CCF网络与系统安全专业委员会执行委员、中国中文信息学会大数据安全与隐私计算专业委员会委员
+- CCF信息系统专委会执委、CCF网络与系统安全专委会执委、中国中文信息学会大数据安全与隐私计算专委会委员、江苏省网安学会AI安全专委会委员
 
 # 🎖 Honors and Awards
 - *2021-2024,* Kyoto University Graduate Division Fellowship. 
