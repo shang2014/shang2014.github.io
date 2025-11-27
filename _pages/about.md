@@ -119,6 +119,7 @@ I am an Associate Professor at Prof. [Guan Yuan](https://faculty.cumt.edu.cn/yua
 - *2015,* National Scholarship of China (<1%).
   
 # ✒️ Teaching
+- Spring 2026,《操作系统》
 - Fall 2025,《云计算与大数据》,《网络攻击与防御》(TA).
 - Spring 2025,《操作系统》(TA),《离散数学》(TA).
 
