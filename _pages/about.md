@@ -110,7 +110,7 @@ I am an Associate Professor at Prof. [Guan Yuan](https://faculty.cumt.edu.cn/yua
 # 💻 Academic Services
 - Conference PC: WWW26, AAAI26, AsiaCCS26, ADMA25(meta reviewer), IJCAI25
 - Conference Session Chair: VLDB25, ADMA25
-- Journal Reviewer: IEEE TDSC, IEEE TKDE, IEEE TIFS, WWWJ, ACM TOPS
+- Journal Reviewer: IEEE TDSC, IEEE TKDE, IEEE TIFS, WWWJ, ACM TOPS, ESWA
 - External Reviewer: SIGMOD24, PAKDD24, ICASSP24, DASFAA24, ICDCS24, VLDB23, ICDE23, AAAI23, SoCC23, DASFAA23, BigData23, PAKDD23, ICDE22, WSDM22, Information Sciences
 - CCF信息系统专委会执委, CCF网络与系统安全专委会执委, 中文信息学会大数据安全与隐私计算专委会委员, 江苏省网安学会AI安全专委会委员
 
@@ -125,7 +125,7 @@ I am an Associate Professor at Prof. [Guan Yuan](https://faculty.cumt.edu.cn/yua
 
 # 🏆 Team （Update: 2025.10.19）
 - Graduate: Hao Du (M2, Co-advised with Prof. Yang Cao), Yuhan Bao & Wei Zhang (M2, Co-advised with Prof. Guan Yuan). 
-- Undergraduate: Zhan Yang (B4, Next: Zhejiang University), Hongbin Zhao (B3), Jingchao Hu (B3), Zixin Xu (B2).
+- Undergraduate: Zhan Yang (B4, Next: Zhejiang University), Hongbin Zhao (B3), Jingchao Hu (B3), Zixin Xu (B2), Xianzhuang Yang (B2).
 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=j2P-1zF4D1SxxgYEb-tcl8IPUhcf145Bw9HPn9DE8nU'></script>
