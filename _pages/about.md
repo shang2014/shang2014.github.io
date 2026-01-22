@@ -115,8 +115,8 @@ I am an Associate Professor at Prof. [Guan Yuan](https://faculty.cumt.edu.cn/yua
 - CCF信息系统专委会执委, CCF网络与系统安全专委会执委, 中文信息学会大数据安全与隐私计算专委会委员, 江苏省网安学会AI安全专委会委员
 
 # 🎖 Honors and Awards
-- *2025*  江苏省双创博士.
-- *2021-2024*  Kyoto University Graduate Division Fellowship.
+- *2025,*  江苏省双创博士.
+- *2021-2024,*  Kyoto University Graduate Division Fellowship.
     
 # ✒️ Teaching
 - Spring 2026,《操作系统》
