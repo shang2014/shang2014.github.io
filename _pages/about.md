@@ -30,7 +30,7 @@ I am an Associate Professor at Prof. [Guan Yuan](https://faculty.cumt.edu.cn/yua
 
 <div class="scrollable">
  <ul>
-   <li><strong>2026.01</strong>: &nbsp; I receive the "江苏省双创博士". </li>
+   <li><strong>2026.01</strong>: &nbsp; I am awarded the "江苏省双创博士". </li>
    <li><strong>2025.11</strong>: &nbsp; One paper is accepted by AAAI'26. </li>
    <li><strong>2025.10</strong>: &nbsp; I am invited as a PC member for WWW'26. </li>
    <li><strong>2025.07</strong>: &nbsp; I am invited as a PC member for AAAI'26. </li>
