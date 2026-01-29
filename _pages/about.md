@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an Associate Professor at Prof. [Guan Yuan](https://faculty.cumt.edu.cn/yuanguan/zh_CN/index.htm)'s group, School of Computer and Science, China University of Mining and Technology (CUMT). I received my Ph.D. degree from Kyoto University, supervised by Prof. [Yang Cao](https://yangcao888.github.io/) and Prof. [Masatoshi Yoshikawa](https://scholar.google.co.jp/citations?user=yMFHG7wAAAAJ&hl=ja). I obtained my Master degree from Huazhong University of Science and Technology, supervised by Prof. [Zhan Shi](http://faculty.hust.edu.cn/shizhan/zh_CN/index/1755929/list/index.htm) and Prof. [Dan Feng](https://storage.hust.edu.cn/sysgk/zrjj.htm). My current research focuses on <strong> Privacy and Security, Graph Analysis, LLM </strong>. Please contact me if you are interested in any form of collaboration. 
+I am an Associate Professor at Prof. [Guan Yuan](https://faculty.cumt.edu.cn/yuanguan/zh_CN/index.htm)'s group, School of Computer and Science, China University of Mining and Technology (CUMT). I received my Ph.D. degree from Kyoto University, supervised by Prof. [Yang Cao](https://yangcao888.github.io/) and Prof. [Masatoshi Yoshikawa](https://researchmap.jp/myoshikawa). I obtained my Master degree from Huazhong University of Science and Technology, supervised by Prof. [Zhan Shi](http://faculty.hust.edu.cn/shizhan/zh_CN/index/1755929/list/index.htm) and Prof. [Dan Feng](https://storage.hust.edu.cn/sysgk/zrjj.htm). My current research focuses on <strong> Privacy and Security, Graph Analysis, LLM </strong>. Please contact me if you are interested in any form of collaboration. 
 
 
 # 🔥 News
