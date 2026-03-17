@@ -120,7 +120,7 @@ I am an Associate Professor at Prof. [Guan Yuan](https://faculty.cumt.edu.cn/yua
 - *2021-2024,*  Kyoto University Graduate Division Fellowship.
     
 # ✒️ Teaching
-- Spring 2026,《操作系统》
+- Spring 2026,《操作系统》,《操作系统课程设计》
 - Fall 2025,《云计算与大数据》,《网络攻击与防御》(TA).
 - Spring 2025,《操作系统》(TA),《离散数学》(TA).
 
