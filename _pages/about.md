@@ -102,11 +102,11 @@ I am an Associate Professor at Prof. [Guan Yuan](https://faculty.cumt.edu.cn/yua
 - Annual IFIP International Conference on Network and Parallel Computing (NPC), 2019, CCF-C -->
 
 # 🔬 Research Grants
-- PI: National Science and Technology Major Project, 2025-2028.
+- PI: Sub-task of the National Science and Technology Major Project, 2025-2028.
 - PI: National Natural Science Foundation of China (C), 2026-2028.
 - PI: Fundamental Research Funds for the Central Universities, 2025-2027.
-- PI: Open Research Fund of The State Key Laboratory of Blockchain and Data Security, Zhejiang University, 2025-2027.
-- PI: Open Research Fund of State Key Lab. for Novel Software Technology, Nanjing University, 2025-2027.
+- PI: Open Research Fund of The State Key Lab. of Blockchain and Data Security, Zhejiang University, 2025-2027.
+- PI: Open Research Fund of The State Key Lab. for Novel Software Technology, Nanjing University, 2025-2027.
   
 # 💻 Academic Services
 - Conference PC: IJCAI26, WWW26, AAAI26, AsiaCCS26, ADMA25(meta reviewer), IJCAI25
