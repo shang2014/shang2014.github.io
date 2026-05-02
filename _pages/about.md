@@ -106,7 +106,7 @@ I am an Associate Professor at Prof. [Guan Yuan](https://faculty.cumt.edu.cn/yua
 - PI: National Natural Science Foundation of China (C), 2026-2028.
 - PI: Fundamental Research Funds for the Central Universities, 2025-2027.
 - PI: Open Research Fund of The State Key Laboratory of Blockchain and Data Security, Zhejiang University, 2025-2027.
-- PI: 南京大学计算机软件新技术国家重点实验室开放课题项目, 2025-2027.
+- PI: Open Research Fund of State Key Lab. for Novel Software Technology, Nanjing University, 2025-2027.
   
 # 💻 Academic Services
 - Conference PC: IJCAI26, WWW26, AAAI26, AsiaCCS26, ADMA25(meta reviewer), IJCAI25
@@ -119,8 +119,8 @@ I am an Associate Professor at Prof. [Guan Yuan](https://faculty.cumt.edu.cn/yua
 - *2021-2024,*  Kyoto University Graduate Division Fellowship.
     
 # ✒️ Teaching
-- Spring 2026,《操作系统》,《操作系统课程设计》
-- Fall 2025,《云计算与大数据》,《网络攻击与防御》(TA).
+- Spring 2026,《操作系统》,《操作系统课程设计》,《深度学习与应用》
+- Fall 2025,《云计算与大数据管理》,《网络攻击与防御》(TA).
 - Spring 2025,《操作系统》(TA),《离散数学》(TA).
 
 # 🏆 Team （Update: 2026.04.12）
