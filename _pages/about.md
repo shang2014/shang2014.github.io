@@ -119,6 +119,7 @@ I am an Associate Professor at Prof. [Guan Yuan](https://faculty.cumt.edu.cn/yua
 - *2021-2024,*  Kyoto University Graduate Division Fellowship.
     
 # ✒️ Teaching
+- Fall 2026,《信息安全新技术(英语)》,《云计算与大数据管理》
 - Spring 2026,《操作系统》,《操作系统课程设计》,《深度学习与应用》
 - Fall 2025,《云计算与大数据管理》,《网络攻击与防御》(TA).
 - Spring 2025,《操作系统》(TA),《离散数学》(TA).
@@ -126,6 +127,6 @@ I am an Associate Professor at Prof. [Guan Yuan](https://faculty.cumt.edu.cn/yua
 # 🏆 Team （Update: 2026.04.12）
 - Graduate: Hao Du (D1, Co-advised with Prof. Yang Cao), Yuhan Bao & Wei Zhang (M2), Han Gao(M2). 
 - Undergraduate: Hongbin Zhao (B3), Zixin Xu (B2), Xianzhuang Yang (B2), Chengxi Ni(B2).
-- Alumni: Zhan Yang (Zhejiang University, Master)
+- Alumni: Zhan Yang (Zhejiang University, PhD stu.)
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=j2P-1zF4D1SxxgYEb-tcl8IPUhcf145Bw9HPn9DE8nU'></script>
