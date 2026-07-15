@@ -30,6 +30,8 @@ I am an Associate Professor at Prof. [Guan Yuan](https://faculty.cumt.edu.cn/yua
 
 <div class="scrollable">
  <ul>
+   <li><strong>2026.07</strong>: &nbsp; One paper is accepted by TDSC. </li>
+   <li><strong>2026.07</strong>: &nbsp; I am invited as a PC member for AAAI'27. </li> 
    <li><strong>2026.02</strong>: &nbsp; I am invited as a PC member for IJCAI'26. </li>
    <li><strong>2026.01</strong>: &nbsp; I am awarded the "江苏省双创博士". </li>
    <li><strong>2025.11</strong>: &nbsp; One paper is accepted by AAAI'26. </li>
@@ -49,6 +51,10 @@ I am an Associate Professor at Prof. [Guan Yuan](https://faculty.cumt.edu.cn/yua
 </div>
 
 # 📝 Publications (selected)
+<img src='https://img.shields.io/badge/TDSC-4C81ED'/> [Federated Graph Analytics with Differential Privacy](https://arxiv.org/pdf/2405.20576)
+- **Shang Liu**, Yang Cao, Takao Murakami, Weiran Liu, Seng Pei Liew, Tsubasa Takahashi, Jinfei Liu, Masatoshi Yoshikawa
+- IEEE Transactions on Dependable and Secure Computing (TDSC), 2026, CCF-A
+  
 <img src='https://img.shields.io/badge/ICDE%2025-4C81ED'/> [PGB: Benchmarking Differentially Private Synthetic Graph Generation Algorithms](https://arxiv.org/pdf/2408.02928)
 - **Shang Liu**, Hao Du, Yang Cao, Bo Yan, Jinfei Liu, Masatoshi Yoshikawa
 - IEEE International Conference on Data Engineering (ICDE), 2025, CCF-A
