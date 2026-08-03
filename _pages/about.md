@@ -55,7 +55,7 @@ I am an Associate Professor at Prof. [Guan Yuan](https://faculty.cumt.edu.cn/yua
 - **Shang Liu**, Yang Cao, Takao Murakami, Weiran Liu, Seng Pei Liew, Tsubasa Takahashi, Jinfei Liu, Masatoshi Yoshikawa
 - IEEE Transactions on Dependable and Secure Computing (TDSC), 2026, CCF-A
 
-<img src='https://img.shields.io/badge/TDSC%2026-4C81ED'/> [GraviLDP: A Topology-Direct Graph Generative Framework under Local Differential Privacy]
+<img src='https://img.shields.io/badge/TDSC%2026-4C81ED'/> GraviLDP: A Topology-Direct Graph Generative Framework under Local Differential Privacy
 - Yuan Gao, Lihe Hou, Sen Zhang, Huiyu Fang, **Shang Liu**
 - IEEE Transactions on Dependable and Secure Computing (TDSC), 2026, CCF-A
   
