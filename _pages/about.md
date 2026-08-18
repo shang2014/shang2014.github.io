@@ -82,11 +82,11 @@ I am an Associate Professor at Prof. [Guan Yuan](https://faculty.cumt.edu.cn/yua
  
 <img src='https://img.shields.io/badge/IJCAI%2025-4C81ED'/> [RobustHAR: Multi-scale Spatial-temporal Masked Self-supervised Pre-training for Robust Human Activity Recognition](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/6153.pdf)
 - Xiao Liu, Guan Yuan, Yanmei Zhang, **Shang Liu**, Qiuyan Yan
-- International Joint Conferences on Artificial Intelligence (IJCAI), 2025, CCF-A
+- International Joint Conferences on Artificial Intelligence (IJCAI), 2025, CCF-B
 
 <img src='https://img.shields.io/badge/IJCAI%2025-4C81ED'/> [Causality-Inspired Disentanglement for Fair Graph Neural Networks](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/6226.pdf)
 - Guixian Zhang,  Debo Cheng, Guan Yuan, **Shang Liu**, Yanmei Zhang
-- International Joint Conferences on Artificial Intelligence (IJCAI), 2025, CCF-A
+- International Joint Conferences on Artificial Intelligence (IJCAI), 2025, CCF-B
 
 <!-- <img src='https://img.shields.io/badge/PAKDD%2025-4C81ED'/> [Privacy in Fine-tuning Large Language Models: Attacks, Defenses, and Future Directions](https://www.arxiv.org/abs/2412.16504)
 - Hao Du, **Shang Liu**, Lele Zheng, Yang Cao, Atsuyoshi Nakamura, Lei Chen
