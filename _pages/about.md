@@ -30,7 +30,7 @@ I am an Associate Professor at Prof. [Guan Yuan](https://faculty.cumt.edu.cn/yua
 
 <div class="scrollable">
  <ul>
-   <li><strong>2026.07</strong>: &nbsp; I am invited as a PC member for WSDM'27. </li> 
+   <li><strong>2026.08</strong>: &nbsp; I am invited as a PC member for WSDM'27. </li> 
    <li><strong>2026.08</strong>: &nbsp; Two papers are accepted by TDSC. </li>
    <li><strong>2026.07</strong>: &nbsp; I am invited as a PC member for AAAI'27. </li> 
    <li><strong>2026.02</strong>: &nbsp; I am invited as a PC member for IJCAI'26. </li>
