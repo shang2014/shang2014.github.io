@@ -30,6 +30,7 @@ I am an Associate Professor at Prof. [Guan Yuan](https://faculty.cumt.edu.cn/yua
 
 <div class="scrollable">
  <ul>
+   <li><strong>2026.07</strong>: &nbsp; I am invited as a PC member for WSDM'27. </li> 
    <li><strong>2026.08</strong>: &nbsp; Two papers are accepted by TDSC. </li>
    <li><strong>2026.07</strong>: &nbsp; I am invited as a PC member for AAAI'27. </li> 
    <li><strong>2026.02</strong>: &nbsp; I am invited as a PC member for IJCAI'26. </li>
@@ -119,7 +120,7 @@ I am an Associate Professor at Prof. [Guan Yuan](https://faculty.cumt.edu.cn/yua
 - PI: Open Research Fund of The State Key Lab. for Novel Software Technology, Nanjing University, 2025-2027.
   
 # 💻 Academic Services
-- Conference PC: AAAI27, ADMA26(meta reviewer), IJCAI26, WWW26, AAAI26, AsiaCCS26, ADMA25(meta reviewer), IJCAI25
+- Conference PC: WSDM27, AAAI27, ADMA26(meta reviewer), IJCAI26, WWW26, AAAI26, AsiaCCS26, ADMA25(meta reviewer), IJCAI25
 - Conference Session Chair: WISA26, VLDB25, ADMA25
 - Journal Reviewer: IEEE TDSC, IEEE TKDE, IEEE TIFS, IEEE TCSS, IEEE TKDD, WWWJ, ACM TOPS, Cybersecurity, ESWA, 计算机学报
 - CCF信息系统专委会执委, CCF网络与系统安全专委会执委, 中文信息学会大数据安全与隐私计算专委会委员, 江苏省网安学会AI安全专委会委员
