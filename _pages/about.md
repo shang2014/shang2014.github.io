@@ -30,6 +30,7 @@ I am an Associate Professor at Prof. [Guan Yuan](https://faculty.cumt.edu.cn/yua
 
 <div class="scrollable">
  <ul>
+   <li><strong>2026.09</strong>: &nbsp; Two undergraduate students admitted to NPU(西工大). Congratulations! </li> 
    <li><strong>2026.09</strong>: &nbsp; One paper is accepted by 计算机学报. </li> 
    <li><strong>2026.08</strong>: &nbsp; I am invited as a PC member for WSDM'27. </li> 
    <li><strong>2026.08</strong>: &nbsp; Two papers are accepted by TDSC. </li>
